@@ -1,0 +1,26 @@
+[
+  {
+    "name": "BEEG",
+    "symbol": "BEEG",
+    "logoURI":
+    "https://raw.githubusercontent.com/derpdex-official/assets/main/blockchains/opbnb/assets/0x7c6b91d9be155a6db01f749217d76ff02a7227f2/logo.png",
+    "inscription": {
+      "p": "opb-20",
+      "op": "mint",
+      "tick": "BEEG",
+      "amt": "1000"
+    }
+  },
+  {
+    "name": "DUCK",
+    "symbol": "DUCK",
+    "logoURI":
+    "https://raw.githubusercontent.com/derpdex-official/token-bridge/main/assets/0x834edEB1d47015440bdEbc8261ac134B969355cd.png",
+    "inscription": {
+      "p": "opb-20",
+      "op": "mint",
+      "tick": "DUCK",
+      "amt": "1000"
+    }
+  },
+]
