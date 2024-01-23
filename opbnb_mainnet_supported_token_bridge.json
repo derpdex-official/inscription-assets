@@ -1,0 +1,13 @@
+[
+  {
+    "name": "derps",
+    "symbol": "derps",
+    "logoURI": "https://raw.githubusercontent.com/derpdex-official/inscription-assets/main/assets/derps.png",
+    "inscription": {
+      "p": "derp-20",
+      "op": "mint",
+      "tick": "derps",
+      "amt": "1000"
+    }
+  }
+]
